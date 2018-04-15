@@ -86,6 +86,7 @@ div.content_text {
 #product-logo-row {
     display: flex;
     flex-direction: row;
+    justify-content: center;
 }
 
 #product-logo-row a {
@@ -118,6 +119,7 @@ div.content_text {
 div.hidden-xs.row {
     display: flex;
     flex-direction: row;
+    justify-content: center;
 }
 
 .productdesc-spacer{
